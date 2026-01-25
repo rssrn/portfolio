@@ -21,6 +21,11 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > * Deploys on Cloudflare Workers and R2.
 > 
 > See [birdbird credits](https://birdbird.rossarn.workers.dev/credits) for full list of dependencies used.
+> 
+> ![[Pasted image 20260125134945.png]]
+> ![[Pasted image 20260125135404.png]]
+
+
 
 
 ## n8n workflows
