@@ -4,10 +4,9 @@ title: Ross Arnold — Portfolio
 Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarnold/).  Does not include any paid/work projects.
 
 ## birdbird
-[!aside-left]
-![[Pasted image 20260125134945.png]]
-![[Pasted image 20260125135404.png]]
-
+> [!aside-left]
+> ![[Pasted image 20260125134945.png]]
+> ![[Pasted image 20260125135404.png]]
 >[!note]
 >### What?
 > Process motion-captured clips from a bird feeder cam, present results on the web.  Includes species detection (audio and video).  See it in action at [birdbird](https://birdbird.rossarn.workers.dev/).
