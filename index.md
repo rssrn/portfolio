@@ -13,7 +13,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > Process motion-captured clips from a bird feeder cam, present results on the web.  Includes species detection (audio and video).  See it in action at [birdbird](https://birdbird.rossarn.workers.dev/).
 > 
 > ### Why?
-> Sharpen my AI-assisted development skills.  Used [Claude Code](https://claude.ai/ ).  Provided close direction, requirements clarity, quality oversight, and design decisions - leveraging Claude Code for implementation while maintaining full project vision and technical governance.  More detail in [[birdbird - Human Contribution Summary]].
+> Sharpen my AI-assisted development skills.  Provided close direction, requirements clarity, quality oversight, and design decisions - leveraging [Claude Code](https://claude.ai/ ) for implementation while maintaining full project vision and technical governance.  More detail in [[birdbird - Human Contribution Summary]].
 > 
 > ### Tech
 > * FFmpeg for general processing of input clips
