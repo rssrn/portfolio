@@ -54,8 +54,10 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 
 ## NewsChart
+> [!aside-left]
+> [![[index.png]]](index.png)
 
->[!note]
+
 >### What?
 > Set up some workflow automations for personal tasks, for example:
 > * summarise news/sport
@@ -64,7 +66,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > * email notifications for new software versions
 > 
 > ### Why?
-> Stay sharp with Java / Spring Boot / ReactJS.
+> Stay sharp with Java / Spring Boot / ReactJS.  Learn some typescript.
 > 
 > ### Tech
 > * Java 21 / Spring Boot 4 / React / Typescript
