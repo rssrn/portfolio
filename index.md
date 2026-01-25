@@ -5,8 +5,8 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 ## birdbird
 > [!aside-left]
-> [![[index-1.png]]](index-1.png)
-> [![[index-2.png]]](index-2.png)
+> [![[index-1.png|Screenshot from birdbird: histogram of bird vocalisations detected, each with confidence %]]](index-1.png)
+> [![[index-2.png|Screenshot from birdbird: images and video player showing garden birds]]](index-2.png)
 
 >
 >### What?
