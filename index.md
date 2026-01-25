@@ -5,8 +5,8 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 ## birdbird
 [!aside-left]
-> ![[Pasted image 20260125134945.png]]
-> ![[Pasted image 20260125135404.png]]
+![[Pasted image 20260125134945.png]]
+![[Pasted image 20260125135404.png]]
 
 >[!note]
 >### What?
