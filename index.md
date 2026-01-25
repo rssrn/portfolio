@@ -4,9 +4,9 @@ title: Ross Arnold — Portfolio
 Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarnold/).  Does not include any paid/work projects.
 
 ## birdbird
-[!aside-left]
-![[Pasted image 20260125134945.png]]
-![[Pasted image 20260125135404.png]]
+> [!aside-left]
+> ![[Pasted image 20260125134945.png]]
+> ![[Pasted image 20260125135404.png]]
 
 >
 >### What?
@@ -31,10 +31,11 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 ## n8n workflows
 
-[!aside-left]
-![[Pasted image 20260125155248.png]]
-![[Pasted image 20260125155409.png]]
-![[Pasted image 20260125155654.png]]
+> [!aside-left]
+> ![[Pasted image 20260125155248.png]]
+> ![[Pasted image 20260125155409.png]]
+> ![[Pasted image 20260125155654.png]]
+
 >### What?
 > Set up various workflow automations for personal tasks on a self-hosted n8n instance, including:
 > * summarise news/sport
