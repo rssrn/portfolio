@@ -32,9 +32,9 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 ## n8n workflows
 
 > [!aside-left]
-> ![[index-3.png]]
-> ![[index-4.png]]
-> ![[index-5.png]]
+> [![[index-3.png]]](index-3.png)
+> [![[index-4.png]]](index-4.png)
+> [![[index-5.png]]](index-5.png)
 
 >### What?
 > Set up various workflow automations for personal tasks on an [n8n](https://n8n.io/?) instance self-hosted on GCP, including:
