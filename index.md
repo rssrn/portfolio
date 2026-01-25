@@ -4,10 +4,11 @@ title: Ross Arnold — Portfolio
 Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarnold/).  Does not include any paid/work projects.
 
 ## birdbird
-> [!aside-left]
-> ![[Pasted image 20260125134945.png]]
-> ![[Pasted image 20260125135404.png]]
+[!aside-left]
+![[Pasted image 20260125134945.png]]
+![[Pasted image 20260125135404.png]]
 
+>
 >### What?
 > Process motion-captured clips from a bird feeder cam, present results on the web.  Includes species detection (audio and video).  See it in action at [birdbird](https://birdbird.rossarn.workers.dev/).
 > 
@@ -30,13 +31,17 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 ## n8n workflows
 
->[!note]
+[!aside-left]
+![[Pasted image 20260125155248.png]]
+![[Pasted image 20260125155409.png]]
+![[Pasted image 20260125155654.png]]
 >### What?
-> Set up some workflow automations for personal tasks, for example:
+> Set up various workflow automations for personal tasks on a self-hosted n8n instance, including:
 > * summarise news/sport
 > * local weather/flood warnings
 > * simplified graph of cloud costs
-> * email notifications for new software versions
+> * email notifications for new software versions and infrequently posted rss feeds
+> * auto backup n8n workflows to github
 > 
 > ### Why?
 > Familiarise with no-code workflow automation tool.  Familiarise with GCP, as I'd mainly used AWS previously.  Save time on recurring tasks.
