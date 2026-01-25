@@ -5,8 +5,8 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 ## birdbird
 > [!aside-left]
-> ![[Pasted image 20260125134945.png]]
-> ![[Pasted image 20260125135404.png]]
+> [![[index-1.png]]](index-1.png)
+> [![[index-2.png]]](index-2.png)
 
 >
 >### What?
@@ -32,9 +32,9 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 ## n8n workflows
 
 > [!aside-left]
-> ![[Pasted image 20260125155248.png]]
-> ![[Pasted image 20260125155409.png]]
-> ![[Pasted image 20260125155654.png]]
+> ![[index-3.png]]
+> ![[index-4.png]]
+> ![[index-5.png]]
 
 >### What?
 > Set up various workflow automations for personal tasks on an [n8n](https://n8n.io/?) instance self-hosted on GCP, including:
