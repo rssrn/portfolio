@@ -59,11 +59,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 
 >### What?
-> Set up some workflow automations for personal tasks, for example:
-> * summarise news/sport
-> * local weather/flood warnings
-> * simplified graph of cloud costs
-> * email notifications for new software versions
+> Visualise top news items on a world map.  Includes comparison of different approaches for deciding what is "top", and AI agent assistance.
 > 
 > ### Why?
 > Stay sharp with Java / Spring Boot / ReactJS.  Learn some typescript.
