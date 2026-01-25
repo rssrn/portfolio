@@ -4,6 +4,9 @@ title: Ross Arnold — Portfolio
 Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarnold/).  Does not include any paid/work projects.
 
 ## birdbird
+[!aside-left]
+> ![[Pasted image 20260125134945.png]]
+> ![[Pasted image 20260125135404.png]]
 
 >[!note]
 >### What?
@@ -22,8 +25,6 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > 
 > See [birdbird credits](https://birdbird.rossarn.workers.dev/credits) for full list of dependencies used.
 > 
-> ![[Pasted image 20260125134945.png]]
-> ![[Pasted image 20260125135404.png]]
 
 
 
