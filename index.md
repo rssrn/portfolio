@@ -37,12 +37,14 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > ![[Pasted image 20260125155654.png]]
 
 >### What?
-> Set up various workflow automations for personal tasks on a self-hosted n8n instance, including:
-> * summarise news/sport
-> * local weather/flood warnings
-> * simplified graph of cloud costs
-> * email notifications for new software versions and infrequently posted rss feeds
+> Set up various workflow automations for personal tasks on an [n8n](https://n8n.io/?) instance self-hosted on GCP, including:
+> * AI summary of news/sport
+> * local weather warnings
+> * local flood status as a custom graph
+> * custom graph of cloud costs
+> * email notifications for new software versions and infrequently updated rss feeds
 > * auto backup n8n workflows to github
+> [Sample daily report](https://n8n-daily-report.rossarn.workers.dev/).
 > 
 > ### Why?
 > Familiarise with no-code workflow automation tool.  Familiarise with GCP, as I'd mainly used AWS previously.  Save time on recurring tasks.
