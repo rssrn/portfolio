@@ -41,7 +41,8 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > * *20+ Node Types & Integrations*: Includes diverse n8n capabilities including API integrations (GitHub, OpenWeatherMap), data processing (JavaScript, conditional logic, batch operations), scheduled execution, and data storage (n8n Data Tables, BigQuery)
 > * *Multi-Source Data Aggregation & Reporting:* Multi-workflow automation systems including master/child workflow patterns for scalable operations, with 30+ node workflows handling parallel data collection, conditional logic, and error handling
 > * *Error Handling*: Designed instance-wide error monitoring using Error Trigger workflows that capture failure details (stack traces, last node, retry info) and deliver actionable alerts via Gmail integration
-> * *DevOps Integration*: Implemented automated GitHub-based version control for n8n workflows with intelligent change detection, comparing JSON structures to determine "new/different/same" states and auto-committing workflow updates with appropriate metadata
+> * *Workflow Backup & Version Control*: Implemented automated GitHub-based version control for n8n workflows with intelligent change detection, comparing JSON structures to determine "new/different/same" states and auto-committing workflow updates with appropriate metadata
+> * *Infrastructure as Code*: Full GCP infrastructure (Cloud Run, Cloud SQL/PostgreSQL, Secret Manager, BigQuery, Cloud Scheduler, IAM) defined and managed with Terraform
 > 
 > Workflow outputs include*: custom graph of cloud costs, AI summary of news/sport, local weather warnings, local flood status as a custom graph, email notifications for new software versions and infrequently updated rss feeds, auto publish summary (static html) to Cloudflare worker, auto backup n8n workflows to github.
 > 
