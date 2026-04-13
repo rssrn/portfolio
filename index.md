@@ -63,7 +63,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > Visualise top news items on a world map.  Includes comparison of different approaches for deciding what is "top", and AI agent assistance.
 > 
 > ### Why?
-> Stay sharp with Java / Spring Boot / ReactJS.  Learn some typescript.
+> Stay sharp with Java / Spring Boot / ReactJS / Typescript.
 > 
 > ### Tech
 > * Java 21 / Spring Boot 4 / React / Typescript
