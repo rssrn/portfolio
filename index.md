@@ -23,10 +23,24 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > 	* Identifies bird visuals using BioClip (optionally, process on remote GPU)
 > * Deploys on Cloudflare Workers and R2.
 > 
-> See [birdbird credits](https://birdbird.rossarn.workers.dev/credits) for full list of dependencies used.
+> See [birdbird credits](https://birdbird.rossarn.workers.dev/credits) for full list of tech and dependencies.
 > 
 
+## NewsChart
+> [!aside-left]
+> [![[index.png]]](index.png)
 
+
+>### What?
+> Visualise top news items on a world map.  Includes comparison of different AI models' editorial selection of top news.
+> 
+> ### Why?
+> Explore AI / LLM model integrations.  Stay sharp with Java, TypeScript, and end-to-end delivery and support of a live system.
+> 
+> ### Tech
+> * Java 21 / Spring Boot 4 / Spring AI / React / Typescript / MongoDB / OpenRouter
+> 
+> See for [NewsChart Credits](https://newschart.rossarnold.uk/credits) for full list of tech and dependencies.
 
 
 ## n8n workflows
@@ -52,22 +66,3 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > ### Tech
 > * n8n self-hosted on GCP
 > * JavsScript for code nodes
-
-
-## NewsChart
-> [!aside-left]
-> [![[index.png]]](index.png)
-
-
->### What?
-> Visualise top news items on a world map.  Includes comparison of different approaches for deciding what is "top", and AI agent assistance.
-> 
-> ### Why?
-> Stay sharp with Java / Spring Boot / ReactJS / Typescript.
-> 
-> ### Tech
-> * Java 21 / Spring Boot 4 / React / Typescript
-
-
-
-
