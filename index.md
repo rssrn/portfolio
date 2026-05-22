@@ -3,14 +3,31 @@ title: Ross Arnold — Portfolio
 ---
 Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarnold/).  Does not include any paid/work projects.
 
+## NewsChart
+> [!aside-left]
+> [![[index.png]]](https://newschart.rossarnold.uk/)
+> [![[index-6.png]]](https://newschart.rossarnold.uk/)
+
+
+>### What?
+> See it in action at [NewsChart](https://newschart.rossarnold.uk/).  Each day, several leading AI models (Gemini, Perplexity, ChatGPT) are asked the same question — "what are today's top three international news stories?" — and their answers are plotted on a world map.  Switch between models to see which stories each chose, where they think the action is, and how their editorial judgements compare against each other and a New York Times baseline.  A date timeline lets you look back at how stories broke and where models agreed or diverged.
+> 
+> ### Why?
+> Explore AI / LLM model integrations.  Stay sharp with Java, TypeScript, and end-to-end delivery and support of a live system.  Also a deliberate exercise in agentic AI-assisted development: the Java/Spring Boot backend was written directly, while the React frontend was built by providing close direction to [Claude Code](https://claude.ai/) — combining hands-on backend engineering with AI-assisted frontend delivery under the same technical oversight.  More detail in [[NewsChart - Human Contribution Summary]].
+> 
+> ### Tech
+> * Java 21 / Spring Boot 4 / Spring AI / React 18 / Typescript / MongoDB / OpenRouter
+> 
+> See [NewsChart credits](https://newschart.rossarnold.uk/credits) for full list of tech and dependencies.
+
 ## birdbird
 > [!aside-left]
-> [![[index-1.png|Screenshot from birdbird: histogram of bird vocalisations detected, each with confidence %]]](index-1.png)
-> [![[index-2.png|Screenshot from birdbird: images and video player showing garden birds]]](index-2.png)
+> [![[index-1.png|Screenshot from birdbird: histogram of bird vocalisations detected, each with confidence %]]](https://birdbird.rossarnold.uk/)
+> [![[index-2.png|Screenshot from birdbird: images and video player showing garden birds]]](https://birdbird.rossarnold.uk/)
 
 >
 >### What?
-> Process motion-captured clips from a bird feeder cam, present results on the web.  Includes species detection (audio and video).  See it in action at [birdbird](https://birdbird.rossarn.workers.dev/).
+> See it in action at [birdbird](https://birdbird.rossarnold.uk/).  Process motion-captured clips from a bird feeder cam, present results on the web.  Includes species detection (audio and video).  
 > 
 > ### Why?
 > Sharpen my AI-assisted development skills.  Provided close direction, requirements clarity, quality oversight, and design decisions - leveraging [Claude Code](https://claude.ai/ ) for implementation while maintaining full project vision and technical governance.  More detail in [[birdbird - Human Contribution Summary]].
@@ -25,22 +42,6 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 > 
 > See [birdbird credits](https://birdbird.rossarn.workers.dev/credits) for full list of tech and dependencies.
 > 
-
-## NewsChart
-> [!aside-left]
-> [![[index.png]]](index.png)
-
-
->### What?
-> Visualise top news items on a world map.  Includes comparison of different AI models' editorial selection of top news.
-> 
-> ### Why?
-> Explore AI / LLM model integrations.  Stay sharp with Java, TypeScript, and end-to-end delivery and support of a live system.
-> 
-> ### Tech
-> * Java 21 / Spring Boot 4 / Spring AI / React / Typescript / MongoDB / OpenRouter
-> 
-> See for [NewsChart Credits](https://newschart.rossarnold.uk/credits) for full list of tech and dependencies.
 
 
 ## n8n workflows
