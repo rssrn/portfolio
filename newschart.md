@@ -2,8 +2,8 @@
 title: NewsChart
 ---
 > [!aside-left]
-> [![[index.png]]](https://newschart.rossarnold.uk/)
-> [![[index-6.png]]](https://newschart.rossarnold.uk/)
+> [![[newschart-consensus.png]]](https://newschart.rossarnold.uk/)
+> [![[newschart-timeline.png]]](https://newschart.rossarnold.uk/)
 
 
 >### What?

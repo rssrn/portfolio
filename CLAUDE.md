@@ -15,7 +15,7 @@ The portfolio-quartz repo includes the portfolio repo as a git submodule at `con
 ## Content Structure
 
 - **index.md**: Main portfolio page with project descriptions
-- **Images**: PNG files named `index-N.png` (where N is a number) are screenshots/samples for projects
+- **Images**: PNG files named `<project>-<description>.png` (e.g. `birdbird-histogram.png`) are screenshots/samples for projects
 - **Project documentation**: Additional markdown files like `birdbird - Human Contribution Summary.md` and `NewsChart - Human Contribution Summary.md` provide supplementary context per project
 
 ## Markdown Conventions
@@ -32,7 +32,7 @@ This portfolio uses **Obsidian-flavored markdown** with specific syntax:
 
 - Images should be in the root directory alongside markdown files
 - Use descriptive alt text for accessibility (format: `![[image.png|Description]]`)
-- When adding project screenshots, use sequential naming: `index-1.png`, `index-2.png`, etc.
+- When adding project screenshots, name them `<project>-<description>.png`, e.g. `newschart-consensus.png`, `newschart-timeline.png`
 - All images in project sections should be clickable links to the full-size version
 
 ## Publishing with Quartz (portfolio-quartz repo)
@@ -83,8 +83,14 @@ Deployed to Cloudflare Pages via `wrangler.jsonc`:
 
 When updating content in the portfolio repo:
 1. Make changes to markdown/images in this portfolio repo
-2. Commit and push changes here
-3. In portfolio-quartz repo, update the content submodule:
+2. Preview locally before committing. `portfolio-quartz/content` is a git submodule checked out from this repo, but Quartz just reads files off disk — so sync the working tree straight into the submodule checkout rather than committing/pushing first:
+   ```bash
+   rsync -av --delete --exclude='.git' /home/ross/src/portfolio/ ../portfolio-quartz/content/
+   cd ../portfolio-quartz && npx quartz build --serve
+   ```
+   This is a one-way, throwaway sync purely for preview — it doesn't touch git state in either repo. A later `git submodule update --remote content` resets `content/` back to whatever's actually committed, discarding the synced files.
+3. Once happy, commit and push changes here
+4. In portfolio-quartz repo, update the content submodule:
    ```bash
    cd portfolio-quartz
    git submodule update --remote content
@@ -92,7 +98,7 @@ When updating content in the portfolio repo:
    git commit -m "Content submodule: <describe changes>"
    git push
    ```
-4. Cloudflare Pages automatically rebuilds and deploys
+5. Cloudflare Pages automatically rebuilds and deploys
 
 ### Requirements
 

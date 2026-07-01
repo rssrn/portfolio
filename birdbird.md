@@ -2,8 +2,8 @@
 title: birdbird
 ---
 > [!aside-left]
-> [![[index-1.png|Screenshot from birdbird: histogram of bird vocalisations detected, each with confidence %]]](https://birdbird.rossarnold.uk/)
-> [![[index-2.png|Screenshot from birdbird: images and video player showing garden birds]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-histogram.png|Screenshot from birdbird: histogram of bird vocalisations detected, each with confidence %]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-video.png|Screenshot from birdbird: images and video player showing garden birds]]](https://birdbird.rossarnold.uk/)
 
 >
 >### What?

@@ -2,8 +2,8 @@
 title: Labro
 ---
 > [!aside-left]
-> [![[index-7.png|Screenshot from Labro: mobile layout showing recent agent tasks with project, source, and outcome indicators]]](https://labro.rossarnold.uk/)
-> [![[index-8.png|Screenshot from Labro: full dashboard table view showing runs with agent, model, cost, turns, and summary columns]]](https://labro.rossarnold.uk/)
+> [![[labro-mobile.png|Screenshot from Labro: mobile layout showing recent agent tasks with project, source, and outcome indicators]]](https://labro.rossarnold.uk/)
+> [![[labro-dashboard.png|Screenshot from Labro: full dashboard table view showing runs with agent, model, cost, turns, and summary columns]]](https://labro.rossarnold.uk/)
 
 >### What?
 > An orchestrator that runs AI coding agents on a schedule - picking or raising GitHub 

@@ -2,9 +2,9 @@
 title: n8n workflows
 ---
 > [!aside-left]
-> [![[index-3.png]]](index-3.png)
-> [![[index-4.png]]](index-4.png)
-> [![[index-5.png]]](index-5.png)
+> [![[n8n-canvas.png]]](n8n-canvas.png)
+> [![[n8n-aggregation.png]]](n8n-aggregation.png)
+> [![[n8n-reporting.png]]](n8n-reporting.png)
 
 >### What?
 > Set up various workflow orchestrations for personal tasks on an [n8n](https://n8n.io/?) instance self-hosted on GCP, with:
