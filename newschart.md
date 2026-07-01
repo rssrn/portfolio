@@ -2,8 +2,10 @@
 title: NewsChart
 ---
 > [!aside-left]
-> [![[newschart-consensus.png]]](https://newschart.rossarnold.uk/)
-> [![[newschart-timeline.png]]](https://newschart.rossarnold.uk/)
+> [![[newschart-consensus.png|Screenshot from NewsChart: consensus map view showing top international news stories plotted by model]]](https://newschart.rossarnold.uk/)
+> [![[newschart-country-detail.png|Screenshot from NewsChart: country detail popup comparing which story each model picked for France]]](https://newschart.rossarnold.uk/)
+> [![[newschart-coverage-map.png|Screenshot from NewsChart: coverage map heatmap showing story volume by country for a single model]]](https://newschart.rossarnold.uk/)
+> [![[newschart-mobile.png|Screenshot from NewsChart: mobile layout showing map, date carousel, and consensus story list]]](https://newschart.rossarnold.uk/)
 
 
 >### What?

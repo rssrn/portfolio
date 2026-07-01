@@ -2,8 +2,11 @@
 title: birdbird
 ---
 > [!aside-left]
-> [![[birdbird-histogram.png|Screenshot from birdbird: histogram of bird vocalisations detected, each with confidence %]]](https://birdbird.rossarnold.uk/)
-> [![[birdbird-video.png|Screenshot from birdbird: images and video player showing garden birds]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-highlights.png|Screenshot from birdbird: highlights video player with detected species list alongside]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-video-stats.png|Screenshot from birdbird: bar chart of bird species detected from video, each with confidence %]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-audio-stats.png|Screenshot from birdbird: bar chart of bird vocalisations detected from audio, each with confidence %]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-pipeline.png|Diagram from birdbird: how it works, showing the parallel video and audio processing pipelines]]](https://birdbird.rossarnold.uk/)
+> [![[birdbird-credits.png|Screenshot from birdbird: credits and acknowledgments page listing models, frameworks, and licenses used]]](https://birdbird.rossarnold.uk/)
 
 >
 >### What?
