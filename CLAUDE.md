@@ -89,14 +89,24 @@ When updating content in the portfolio repo:
    cd ../portfolio-quartz && npx quartz build --serve
    ```
    This is a one-way, throwaway sync purely for preview — it doesn't touch git state in either repo. A later `git submodule update --remote content` resets `content/` back to whatever's actually committed, discarding the synced files.
-3. Once happy, commit and push changes here
-4. In portfolio-quartz repo, update the content submodule:
+3. Before committing, make sure `../portfolio-quartz/content` has no leftover changes from the rsync preview above:
    ```bash
-   cd portfolio-quartz
+   git -C ../portfolio-quartz/content checkout -- . && git -C ../portfolio-quartz/content clean -fd
+   ```
+4. Commit and push changes here (`git commit` in this repo)
+
+   **A `post-commit` hook (`.git/hooks/post-commit`) automates the rest of this workflow (steps 4b-5 below)** — it runs `git push origin main`, then in `portfolio-quartz` (branch `v4`) runs `git submodule update --remote content`, commits the submodule bump, and pushes. **This hook does not check exit codes and always prints "✅ Success" even when it silently did nothing** — its most common failure mode is exactly step 3 above: leftover dirty/untracked files in `content/` (e.g. from a preview rsync) make `git submodule update --remote` abort, so the submodule pointer never advances and the site doesn't actually deploy, despite the green checkmark. After committing, verify the hook actually worked:
+   ```bash
+   git -C ../portfolio-quartz log -1 --oneline   # should be a fresh "Content submodule: ..." commit
+   git -C ../portfolio-quartz/content log -1 --oneline   # should match this repo's new HEAD
+   ```
+   If it didn't advance, repeat step 3's cleanup, then manually run what the hook does (step 4b):
+   ```bash
+   cd ../portfolio-quartz
    git submodule update --remote content
    git add content
    git commit -m "Content submodule: <describe changes>"
-   git push
+   git push origin v4
    ```
 5. Cloudflare Pages automatically rebuilds and deploys
 
