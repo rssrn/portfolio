@@ -1,5 +1,6 @@
 ---
 title: birdbird
+description: Processes motion-captured clips from a bird feeder camera and presents the results on the web, including species detection from both audio and video.
 ---
 > [!aside-left]
 > [![[birdbird-highlights.png|Screenshot from birdbird: highlights video player with detected species list alongside]]](https://birdbird.rossarnold.uk/)

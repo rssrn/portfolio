@@ -1,5 +1,6 @@
 ---
 title: Labro
+description: An orchestrator that runs AI coding agents on a schedule - picking or raising GitHub Issues, prompting an agent, and recording the result directly in the GitHub issue.
 ---
 > [!aside-left]
 > [![[labro-mobile.png|Screenshot from Labro: mobile layout showing recent agent runs with project, source, and outcome indicators]]](https://labro.rossarnold.uk/)

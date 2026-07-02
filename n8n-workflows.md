@@ -1,5 +1,6 @@
 ---
 title: n8n workflows
+description: Self-hosted n8n instance on GCP running scheduled workflow orchestrations for personal tasks, including data aggregation, reporting, error handling, and automated backups.
 ---
 > [!aside-left]
 > [![[n8n-canvas.png]]](n8n-canvas.png)
