@@ -1,5 +1,5 @@
 ---
-title: Ross Arnold — Portfolio
+title: "Ross Arnold : Portfolio"
 ---
 Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarnold/).  Does not include any paid/work projects.
 
@@ -38,7 +38,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
       </div>
     </div>
     <p class="project-status">Live · AI news coverage mapped by model</p>
-    <p class="project-description">Several leading AI models are asked daily for the top three international news stories, plotted on a world map so you can compare editorial judgement across models.</p>
+    <p class="project-description">Asks several leading AI models daily for the top three international news stories, then plots them on a world map to compare editorial judgement.</p>
   </div>
   <img src="./newschart-mobile.png" alt="Screenshot from NewsChart: mobile layout showing map, date carousel, and consensus story list" data-lightbox-group="newschart" hidden>
   <img src="./newschart-country-detail.png" alt="Screenshot from NewsChart: country detail popup comparing which story each model picked for France" data-lightbox-group="newschart" hidden>
@@ -47,7 +47,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
 
 <div class="project-card is-live">
   <div class="project-card-image">
-    <img src="./birdbird-highlights.png" alt="Screenshot from birdbird: highlights video player with detected species list alongside" data-lightbox-group="birdbird">
+    <img src="./birdbird-highlights.png" alt="Screenshot from birdbird: highlights video player, with a list of detected species beside it linking to the best sighting of each" data-lightbox-group="birdbird">
   </div>
   <div class="project-card-body">
     <div class="project-card-header">
@@ -58,7 +58,7 @@ Samples of personal projects for [Ross Arnold](https://www.linkedin.com/in/rarno
       </div>
     </div>
     <p class="project-status">Live · Bird cam with ML detection</p>
-    <p class="project-description">Processes motion-captured clips from a bird feeder camera and presents the results on the web, including species detection from both audio and video.</p>
+    <p class="project-description">Detects bird species from the audio and video of motion-captured feeder clips, then publishes a highlights reel bookmarking the best sighting of each.</p>
   </div>
   <img src="./birdbird-video-stats.png" alt="Screenshot from birdbird: bar chart of bird species detected from video, each with confidence %" data-lightbox-group="birdbird" hidden>
   <img src="./birdbird-audio-stats.png" alt="Screenshot from birdbird: bar chart of bird vocalisations detected from audio, each with confidence %" data-lightbox-group="birdbird" hidden>
