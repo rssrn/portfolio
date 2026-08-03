@@ -1,6 +1,6 @@
 ---
 title: NewsChart
-description: Asks several leading AI models daily for the top three international news stories, then plots them on a world map so you can compare editorial judgement across models.
+description: Asks leading AI models daily for the top three international news stories, then plots them on a world map to compare editorial judgement across models.
 ---
 > [!aside-left]
 > [![[newschart-consensus.png|Screenshot from NewsChart: consensus map view showing top international news stories plotted by model]]](https://newschart.rossarnold.uk/)
